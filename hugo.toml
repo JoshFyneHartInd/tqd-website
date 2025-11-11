@@ -4,7 +4,7 @@
 
 theme = "congo"
 
-baseURL = "https://stage.thequietdisconnect.com/"
+baseURL = "/"
 defaultContentLanguage = "en"
 
 enableRobotsTXT = true
