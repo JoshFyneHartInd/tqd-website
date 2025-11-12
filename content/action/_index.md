@@ -8,15 +8,7 @@ images: ["/web-preview.png"]
 {{< lead >}}
 Convenience is not free. The cost is your freedom.  
 {{< /lead >}}
-{{< contentWithQuote >}}
 Here's how you start breaking free. These small actions. Everyday choices. This is real resistance. Start where you are, with what you have. Change doesn't need permission. Revolutions start with simple actions and you hold the key.
-<--->
-> It has to start somewhere. It has to start sometime.  
-> What better place than here? What better time than now?
-
--Zack de la Rocha, *Guerrilla Radio*
-{{< /contentWithQuote >}}  
-  
 {{< lead >}}
 Action Begins Right Here, Right Now
 {{< /lead >}}
