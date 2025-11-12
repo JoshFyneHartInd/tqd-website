@@ -8,9 +8,6 @@ images: ["/web-preview.png"]
 {{< lead >}}
 Hope is the seed of freedom. Plant it everywhere.
 {{< /lead >}}
-{{< quote "Martin Luther King Jr." >}}
-We must accept finite disappointment, but never lose infinite hope.
-{{< /quote >}}
 In a world built on fear, distraction, and division, **hope** itself is an act of resistance. **Hope** is neither naïve or blind. It is the stubborn belief that we can live differently and the courage to act as if it's already true.
   
 {{< lead >}}
@@ -32,3 +29,9 @@ This is why we unsubscribe, unplug, and unshackle. Not just to resist, but to re
 {{< button href="/action/" target="_self" >}}
 Take Action
 {{< /button >}}
+
+***
+
+{{< quote "Martin Luther King Jr." >}}
+We must accept finite disappointment, but never lose infinite hope.
+{{< /quote >}}
