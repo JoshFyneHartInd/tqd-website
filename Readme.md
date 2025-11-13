@@ -1,6 +1,6 @@
-# TQD Website
+# The Quiet Disconnect Hugo Website
 
-A Hugo-based static website built with the Congo theme.
+A Hugo-based static website built with the [Congo theme](https://github.com/jpanther/congo).
 
 ## Prerequisites
 
