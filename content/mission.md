@@ -16,6 +16,10 @@ By taking back our time, attention, and money, we weaken the hold of unfair syst
 We're not here to burn it down. We're here to stop feeding it. This is how we'll know it's working.
 {{< /lead >}}
 {{< goalslist >}}
+## Supporting This Site  
+Contribute to the content: <a href='https://github.com/thequietdisconnect/website' target="_blank">https://github.com/thequietdisconnect/website</a>  
+Spread the message on <a href='https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fthequietdisconnect.com' target='_blank'>Facebook</a> and <a href='https://twitter.com/intent/tweet?url=https%3A%2F%2Fthequietdisconnect.com' target='_blank'>Twitter</a>  
+Email us: [thequietdisconnect@gmail.com](mailto:thequietdisconnect@gmail.com)
 
 ***
 
